@@ -1,0 +1,640 @@
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,98271E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;163;1.57946;2144;1375000;2025-03-11T13:56:22.047Z;13:37;False;True;11/03/2025;True;2918;1322;1835;-1;12430;9;27.432;1190;175;56;19;total;9.0868;933;52;2663;10000;11.27;10;30
+4,04275E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;163;1.63483;2200;1369000;2025-03-11T14:26:41.735Z;14:52;False;True;11/03/2025;True;;;;;;;;;;;;tracker;9.0868;;;;;;;
+8,16959E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;107;1.10614;1457;908000;2025-03-11T15:27:29.131Z;16:02;False;True;11/03/2025;True;;;;;;;;;;;;sedentaryActive;3.1142;;;;;;;
+6,54337E+18;91042;91042;Strength training;Strength training;;252;;1738;4222000;2025-03-11T17:44:23.405Z;17:21;False;True;11/03/2025;True;;;;;;;;;;;;lightlyActive;1.5063;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.5116;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.019;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.32043;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.57946;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.63483;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.10614;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,46477E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;115;0.97608;1345;1294000;2025-03-12T12:39:10.770Z;13:03;False;True;12/03/2025;True;2883;1320;1836;-1;10917;8;24.384;1160;242;33;5;total;8.0725;882;52;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;8.0725;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.0529;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;2.7125;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1337;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;0.97608;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.97608;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,61332E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;113;0.9746;1317;1024000;2025-03-13T14:36:39.337Z;12:57;False;True;13/03/2025;True;4561;2989;1836;-1;12325;11;33.528;1190;113;12;125;total;11.9897;2595;50;2663;10000;11.27;10;30
+3,09765E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;143;1.2877;1752;1229000;2025-03-13T14:36:39.792Z;13:44;False;True;13/03/2025;True;;;;;;;;;;;;tracker;4.4897;;;;;;;
+3,50224E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);2330;7.5;6276;7140000;2025-03-14T01:22:16.136Z;22:00;False;True;13/03/2025;True;;;;;;;;;;;;sedentaryActive;0.8955;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.1277;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0548;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.2744;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;9.7623;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9746;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.2877;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;7.5;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,65488E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;85;0.89565;1204;749000;2025-03-14T19:17:07.461Z;19:49;False;True;14/03/2025;True;2717;1074;1837;-1;10513;10;30.48;1243;133;54;10;total;7.7304;765;52;2663;10000;11.27;10;30
+8,1515E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;207;1.95703;2667;1695000;2025-03-14T20:48:27.959Z;21:10;False;True;14/03/2025;True;;;;;;;;;;;;tracker;7.7304;;;;;;;
+6,01283E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;104;0.94272;1338;891000;2025-03-14T21:18:53.358Z;21:52;False;True;14/03/2025;True;;;;;;;;;;;;sedentaryActive;0.9113;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.2243;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0722;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.7954;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.89565;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.95703;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.94272;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,99999E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;522;5.2161;6995;4092000;2025-03-15T11:07:43.943Z;09:55;False;True;15/03/2025;True;3008;1438;1837;-1;14484;9;27.432;1180;149;37;74;total;10.8711;1030;50;2663;10000;11.27;10;30
+7,12522E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;342;3.3093;4435;2998000;2025-03-15T14:54:14.676Z;14:58;False;True;15/03/2025;True;;;;;;;;;;;;tracker;10.8711;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.7525;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.4258;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.3095;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;2.1547;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;8.5254;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;5.2161;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.3093;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+4,00906E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;90;0.74544;1058;816000;2025-03-16T12:58:37.145Z;13:31;False;True;16/03/2025;True;3284;1704;1838;-1;15302;8;24.384;1186;135;67;52;total;13.165;1306;48;2663;10000;11.27;10;30
+7,11727E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;84;0.77213;1068;720000;2025-03-16T13:27:01.775Z;14:14;False;True;16/03/2025;True;;;;;;;;;;;;tracker;13.165;;;;;;;
+7,27434E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;292;2.60105;3533;2331000;2025-03-16T14:28:14.543Z;14:39;False;True;16/03/2025;True;;;;;;;;;;;;sedentaryActive;2.1887;;;;;;;
+8,1176E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);376;4.77397;4008;1614000;2025-03-16T17:06:05.637Z;17:17;False;True;16/03/2025;True;;;;;;;;;;;;lightlyActive;0.904;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.3067;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;1.5772;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;8.89259;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.74544;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.77213;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.60105;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;4.77397;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,30864E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;69;0.64947;865;502000;2025-03-17T08:42:00.501Z;09:02;False;True;17/03/2025;True;3346;1784;1838;-1;15487;17;51.816;1158;144;68;70;total;11.6199;1344;47;2663;10000;11.27;10;30
+4,29581E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;109;1.02756;1418;924000;2025-03-17T12:00:53.590Z;12:38;False;True;17/03/2025;True;;;;;;;;;;;;tracker;11.6199;;;;;;;
+6,26836E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;446;4.35005;5810;3596000;2025-03-17T15:09:00.578Z;13:32;False;True;17/03/2025;True;;;;;;;;;;;;sedentaryActive;3.4507;;;;;;;
+8,83092E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;103;1.07032;1442;899000;2025-03-17T17:07:16.758Z;16:10;False;True;17/03/2025;True;;;;;;;;;;;;lightlyActive;0.8352;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.7483;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;2.0383;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;7.0974;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.64947;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.02756;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.35005;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.07032;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,79585E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;498;4.7854;6298;3589000;2025-03-18T10:55:13.229Z;10:46;False;True;18/03/2025;True;3336;1760;1838;-1;16051;9;27.432;1008;98;61;92;total;12.0653;1366;45;2663;10000;11.27;10;30
+4,82347E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;339;3.25747;4395;2790000;2025-03-18T13:11:46.974Z;13:10;False;True;18/03/2025;True;;;;;;;;;;;;tracker;12.0653;;;;;;;
+3,42219E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;188;1.69427;2277;1900000;2025-03-18T14:43:07.605Z;14:57;False;True;18/03/2025;True;;;;;;;;;;;;sedentaryActive;3.2099;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.0134;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0114;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0198;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;9.73714;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.7854;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.25747;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.69427;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,24033E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;199;1.81316;2418;1409000;2025-03-19T08:55:58.882Z;09:12;False;True;19/03/2025;True;3462;1920;1839;-1;18434;7;21.336;622;121;24;144;total;13.8239;1465;44;2663;10000;11.27;10;30
+8,97907E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;530;5.03379;6736;4120000;2025-03-19T11:57:56.117Z;11:38;False;True;19/03/2025;True;;;;;;;;;;;;tracker;13.8239;;;;;;;
+6,6275E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;333;3.1747;4269;2582000;2025-03-19T17:33:50.073Z;17:41;False;True;19/03/2025;True;;;;;;;;;;;;sedentaryActive;3.6717;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.9136;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1481;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.8992;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;10.02165;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.81316;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;5.03379;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.1747;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,95312E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;479;3.80178;5188;4704000;2025-03-20T09:56:11.757Z;09:11;False;True;20/03/2025;True;3057;1430;1839;-1;12477;23;70.104;1198;133;43;66;total;9.3216;1055;42;2663;10000;11.27;10;30
+6,4431E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;302;2.91835;3869;2336000;2025-03-20T15:02:32.012Z;15:12;False;True;20/03/2025;True;;;;;;;;;;;;tracker;9.3269;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.0809;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.2186;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.3369;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.6514;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;6.72013;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.80178;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.91835;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,11487E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;42;0.36216;514;339000;2025-03-21T08:59:30.255Z;09:48;False;True;21/03/2025;True;3107;1461;1840;-1;12054;7;21.336;1191;152;58;39;total;9.3358;1078;44;2663;10000;11.27;10;30
+5,16177E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;77;0.76968;1028;687000;2025-03-21T09:29:49.033Z;10:14;False;True;21/03/2025;True;;;;;;;;;;;;tracker;9.3358;;;;;;;
+2,1043E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;75;0.6582;904;869000;2025-03-21T11:15:54.768Z;11:49;False;True;21/03/2025;True;;;;;;;;;;;;sedentaryActive;3.3264;;;;;;;
+6,44473E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;39;0.24248;379;722000;2025-03-21T13:06:24.389Z;13:16;False;True;21/03/2025;True;;;;;;;;;;;;lightlyActive;0.6421;;;;;;;
+3,74359E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;73;0.67547;907;547000;2025-03-21T13:06:24.469Z;13:45;False;True;21/03/2025;True;;;;;;;;;;;;moderatelyActive;0.5673;;;;;;;
+7,15633E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;60;0.60673;814;543000;2025-03-21T15:34:53.839Z;16:16;False;True;21/03/2025;True;;;;;;;;;;;;veryActive;0.2031;;;;;;;
+3,30789E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;72;0.72554;965;618000;2025-03-21T16:09:00.785Z;16:51;False;True;21/03/2025;True;;;;;;;;;;;;loggedActivities;5.35427;;;;;;;
+6,89616E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);121;1.31401;1337;688000;2025-03-21T17:11:43.973Z;17:29;False;True;21/03/2025;True;;;;;;;;;;;;Walk;0.36216;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.76968;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.6582;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.24248;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.67547;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.60673;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.72554;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;1.31401;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,00651E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;73;0.72742;978;618000;2025-03-22T22:10:06.755Z;15:01;False;True;22/03/2025;True;3474;1835;1840;-1;16216;19;57.912;1199;129;25;87;total;15.8428;1469;44;2663;10000;11.27;10;30
+3,91006E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;74;0.74184;981;624000;2025-03-22T22:10:06.810Z;16:24;False;True;22/03/2025;True;;;;;;;;;;;;tracker;15.8428;;;;;;;
+4,88403E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;0;0.0;0;7000;2025-03-22T22:10:06.866Z;21:19;False;True;22/03/2025;True;;;;;;;;;;;;sedentaryActive;0.935;;;;;;;
+8,81533E+17;90009;90009;Run;Run;Running - 5 mph (12 min/mile);897;10.74565;9376;3816000;2025-03-22T22:10:06.748Z;21:19;False;True;22/03/2025;True;;;;;;;;;;;;lightlyActive;0.353;;;;;;;
+1,50858E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;135;0.831;1110;973000;2025-03-22T22:10:09.867Z;22:22;False;True;22/03/2025;True;;;;;;;;;;;;moderatelyActive;0.1251;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;1.1928;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;13.04591;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.72742;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.74184;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;10.74565;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.831;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+9,20663E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;93;0.82568;1142;835000;2025-03-23T14:49:39.041Z;15:20;False;True;23/03/2025;True;2962;1308;1841;-1;12655;6;18.288;1228;89;79;44;total;9.5063;976;46;2663;10000;11.27;10;30
+7,00491E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;239;2.19775;2888;2003000;2025-03-23T15:50:39.828Z;16:03;False;True;23/03/2025;True;;;;;;;;;;;;tracker;9.5063;;;;;;;
+2,28689E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;353;3.03383;4083;3210000;2025-03-23T17:22:10.660Z;17:27;False;True;23/03/2025;True;;;;;;;;;;;;sedentaryActive;1.2633;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.4992;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.5649;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.2321;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;6.05726;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.82568;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.19775;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.03383;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,55006E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;85;0.83396;1126;762000;2025-03-24T11:34:35.680Z;12:17;False;True;24/03/2025;True;2852;1197;1841;-1;11822;9;27.432;1243;97;43;57;total;8.909;892;45;2663;10000;11.27;10;30
+5,8536E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;494;4.7568;6293;3617000;2025-03-24T22:15:52.132Z;13:44;False;True;24/03/2025;True;;;;;;;;;;;;tracker;8.909;;;;;;;
+5,39167E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;91;0.65491;938;1645000;2025-03-24T22:15:52.030Z;17:23;False;True;24/03/2025;True;;;;;;;;;;;;sedentaryActive;3.416;;;;;;;
+8,14046E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;64;0.61361;829;536000;2025-03-24T22:15:52.124Z;22:58;False;True;24/03/2025;True;;;;;;;;;;;;lightlyActive;0.9106;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.6037;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.3195;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;6.85928;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.83396;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.7568;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.65491;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.61361;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,62574E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;122;1.13586;1519;963000;2025-03-25T13:39:12.470Z;14:11;False;True;25/03/2025;True;2883;1270;1842;-1;11042;3;9.144;1209;153;51;27;total;8.2409;907;46;2663;10000;11.27;10;30
+6,13765E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;161;1.50676;2020;1355000;2025-03-25T14:39:52.897Z;15:14;False;True;25/03/2025;True;;;;;;;;;;;;tracker;8.2485;;;;;;;
+6,9392E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;134;1.12794;1552;1303000;2025-03-25T16:26:17.408Z;16:55;False;True;25/03/2025;True;;;;;;;;;;;;sedentaryActive;1.6412;;;;;;;
+7,91407E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;73;0.71746;958;614000;2025-03-25T18:42:55.292Z;19:28;False;True;25/03/2025;True;;;;;;;;;;;;lightlyActive;0.8546;;;;;;;
+6,04274E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;82;0.52442;758;959000;2025-03-25T20:14:01.695Z;20:47;False;True;25/03/2025;True;;;;;;;;;;;;moderatelyActive;0.1218;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0038;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;5.01244;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.13586;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.50676;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.12794;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.71746;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.52442;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,56652E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;473;4.46688;5927;3643000;2025-03-26T12:27:42.501Z;12:21;False;True;26/03/2025;True;3256;1713;1842;-1;15206;2;6.096;1159;167;26;88;total;11.4578;1270;45;2663;10000;11.27;10;30
+7,51937E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;197;1.88446;2504;1561000;2025-03-26T15:14:02.413Z;14:24;False;True;26/03/2025;True;;;;;;;;;;;;tracker;11.4578;;;;;;;
+3,67805E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;91;0.92211;1243;770000;2025-03-27T08:47:16.376Z;19:35;False;True;26/03/2025;True;;;;;;;;;;;;sedentaryActive;2.9234;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;2.7049;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.1252;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;1.31;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;7.2734499999999995;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.46688;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.88446;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.92211;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+8,34671E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;243;2.32721;3100;1929000;2025-03-27T23:21:51.033Z;11:07;False;True;27/03/2025;True;3142;1554;1843;-1;16840;9;27.432;1194;93;57;96;total;12.655;1165;44;2663;10000;11.27;10;30
+7,89611E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;268;2.40099;3184;1974000;2025-03-27T23:21:50.984Z;13:03;False;True;27/03/2025;True;;;;;;;;;;;;tracker;12.655;;;;;;;
+6,28281E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;162;1.56987;2098;1298000;2025-03-27T23:21:50.979Z;16:20;False;True;27/03/2025;True;;;;;;;;;;;;sedentaryActive;2.6454;;;;;;;
+5,15255E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;193;1.7033;2317;1902000;2025-03-27T23:21:51.033Z;18:18;False;True;27/03/2025;True;;;;;;;;;;;;lightlyActive;1.3523;;;;;;;
+6,50578E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;214;2.06011;2730;1763000;2025-03-27T23:21:51.033Z;19:22;False;True;27/03/2025;True;;;;;;;;;;;;moderatelyActive;2.0412;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.9966;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;10.06148;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.32721;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.40099;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.56987;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.7033;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.06011;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+4,96029E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;396;3.74637;5033;3198000;2025-03-28T17:50:04.751Z;17:48;False;True;28/03/2025;True;2817;1145;1843;-1;10373;7;21.336;1225;159;25;31;total;7.7476;816;44;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;7.7476;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.3794;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.4981;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.4438;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1611;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.74637;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.74637;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,93324E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;212;2.03497;2701;1727000;2025-03-29T11:09:50.283Z;11:27;False;True;29/03/2025;True;2844;1178;1844;-1;11377;17;51.816;1236;109;55;40;total;8.5786;864;43;2663;10000;11.27;10;30
+9,0321E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;115;1.11635;1494;868000;2025-03-29T12:25:37.420Z;13:01;False;True;29/03/2025;True;;;;;;;;;;;;tracker;8.5786;;;;;;;
+5,35204E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;213;2.07479;2761;1697000;2025-03-29T14:41:54.830Z;14:29;False;True;29/03/2025;True;;;;;;;;;;;;sedentaryActive;0.3839;;;;;;;
+8,97668E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;81;0.77067;1052;788000;2025-03-29T15:42:36.144Z;16:27;False;True;29/03/2025;True;;;;;;;;;;;;lightlyActive;0.5465;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1497;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.6807;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;5.99678;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.03497;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.11635;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.07479;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.77067;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,28605E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;100;1.01738;1347;817000;2025-03-30T12:40:13.091Z;13:22;False;True;30/03/2025;True;2788;1118;1844;-1;10133;5;15.24;1242;106;64;28;total;7.6018;806;45;2663;10000;11.27;10;30
+5,40792E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;102;1.01446;1358;846000;2025-03-30T14:11:13.985Z;14:51;False;True;30/03/2025;True;;;;;;;;;;;;tracker;7.6018;;;;;;;
+3,9569E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;130;1.01996;1463;1327000;2025-03-30T16:57:57.872Z;17:32;False;True;30/03/2025;True;;;;;;;;;;;;sedentaryActive;1.5256;;;;;;;
+6,91089E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;108;1.03157;1386;903000;2025-03-30T18:59:24.299Z;19:42;False;True;30/03/2025;True;;;;;;;;;;;;lightlyActive;0.5349;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.1042;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.3125;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.08337;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.01738;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.01446;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.01996;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.03157;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,49496E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;53;0.51941;692;1100000;2025-03-31T07:19:21.600Z;07:49;False;True;31/03/2025;True;2218;437;1845;-1;3204;3;9.144;1346;83;4;7;total;2.3649;293;47;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;2.3649;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;0.0196;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.0214;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;0.51941;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.51941;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,95057E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;202;1.78711;2420;2484000;2025-04-01T14:44:19.565Z;14:57;False;True;01/04/2025;True;2702;983;1845;-1;8034;9;27.432;1250;137;26;27;total;6.0833;690;47;2663;10000;11.27;10;30
+5,06522E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;178;1.83665;2440;1499000;2025-04-01T18:13:17.240Z;18:48;False;True;01/04/2025;True;;;;;;;;;;;;tracker;6.0833;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.8225;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.5231;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0938;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0647;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.62376;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.78711;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.83665;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+9,06748E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;74;0.60133;842;950000;2025-04-02T09:50:40.419Z;10:04;False;True;02/04/2025;True;2951;1273;1846;-1;11739;15;45.72;1215;145;32;48;total;8.7872;928;49;2663;10000;11.27;10;30
+5,22652E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;70;0.6756;919;690000;2025-04-02T13:38:06.751Z;14:03;False;True;02/04/2025;True;;;;;;;;;;;;tracker;8.7872;;;;;;;
+2,96958E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;561;5.26562;7077;4647000;2025-04-02T17:14:58.819Z;16:44;False;True;02/04/2025;True;;;;;;;;;;;;sedentaryActive;1.6622;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.7406;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1181;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.2671;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;6.54255;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.60133;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.6756;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;5.26562;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,78108E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;91;0.88737;1183;716000;2025-04-03T14:32:59.661Z;13:37;False;True;03/04/2025;True;3479;1932;1846;-1;17091;12;36.576;1133;177;39;91;total;12.4218;1462;50;2663;10000;11.27;10;30
+8,63303E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;103;1.03109;1371;824000;2025-04-03T14:32:59.810Z;14:03;False;True;03/04/2025;True;;;;;;;;;;;;tracker;12.4218;;;;;;;
+2,95367E+18;15000;15000;Sport;Sport;;884;;8208;6451000;2025-04-03T23:17:37.746Z;21:59;False;True;03/04/2025;True;;;;;;;;;;;;sedentaryActive;0.9951;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.381;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.103;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1309;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.91846;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.88737;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.03109;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,31798E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;195;1.71601;2365;2141000;2025-04-04T10:23:48.159Z;10:41;False;True;04/04/2025;True;3003;1344;1847;-1;9485;7;21.336;1183;213;22;21;total;7.0935;941;51;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;7.0935;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.8813;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.9783;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0698;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0343;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.71601;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.71601;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,10856E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;103;0.78211;1080;1654000;2025-04-05T19:30:28.176Z;18:42;False;True;05/04/2025;True;2561;865;1847;-1;7158;9;27.432;704;145;19;14;total;5.3458;587;52;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;5.3458;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.1706;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.6009;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1771;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;0.78211;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.78211;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,53438E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;185;1.57946;2165;1853000;2025-04-06T11:21:14.607Z;11:25;False;True;06/04/2025;True;2750;1046;1848;-1;7265;10;30.48;1214;208;2;16;total;5.4823;700;51;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;5.4823;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.1798;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.9876;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.136;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.57946;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.57946;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+4,84454E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;127;1.0627;1442;1382000;2025-04-07T08:50:01.572Z;09:21;False;True;07/04/2025;True;3043;1325;1848;-1;12100;12;36.576;1206;175;25;34;total;8.2058;965;54;2663;10000;11.27;10;30
+4,7071E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;105;0.9056;1218;1075000;2025-04-07T12:09:40.325Z;11:43;False;True;07/04/2025;True;;;;;;;;;;;;tracker;8.2058;;;;;;;
+5,36669E+18;15000;15000;Sport;Sport;;229;;2978;1837000;2025-04-07T14:10:30.577Z;13:53;False;True;07/04/2025;True;;;;;;;;;;;;sedentaryActive;4.8143;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.3032;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.5142;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1916;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.9683;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.0627;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9056;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,07057E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;46;0.48214;659;388000;2025-04-08T10:12:23.914Z;10:52;False;True;08/04/2025;True;3032;1425;1849;-1;12841;4;12.192;1171;185;33;51;total;8.4055;1004;54;2663;10000;11.27;10;30
+2,30936E+18;15000;15000;Sport;Sport;;440;;5380;3585000;2025-04-08T12:43:40.064Z;11:39;False;True;08/04/2025;True;;;;;;;;;;;;tracker;8.4055;;;;;;;
+4,38702E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;92;0.7686;1067;1130000;2025-04-08T17:57:03.530Z;14:06;False;True;08/04/2025;True;;;;;;;;;;;;sedentaryActive;2.6193;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.7332;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1072;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1155;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.25074;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.48214;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.7686;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes;
+1,68608E+18;15000;15000;Sport;Sport;;1200;10792;8090000;2025-04-09T17:04:50.666Z;15:03;False;True;09/04/2025;True;3775;2292;1849;-1;16041;30;91.44;1056;277;9;98;total;11.3668;1696;54;2663;10000;11.27;10;30;
+;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;11.3668;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;7.2334;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;2.0203;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.3097;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.542;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;0.0;;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,08442E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;151;1.06059;1508;1921000;2025-04-10T11:54:56.566Z;12:15;False;True;10/04/2025;True;2826;1215;1849;-1;9545;12;36.576;1204;197;21;18;total;7.46195;844;53;2663;10000;11.27;10;30
+1,01814E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;160;1.5096;2022;1350000;2025-04-10T15:48:15.897Z;16:10;False;True;10/04/2025;True;;;;;;;;;;;;tracker;6.5772;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.6084;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.8162;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0061;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0064;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.57019;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.06059;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.5096;;;;;;;
+"﻿""summary__caloriesOut""";summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes;;;;;;;;;;;;;;;;
+2846;1243;1850;-1;8145;16;48.768;1155;285;0;0;total;6.144019;800;52;2663;10000;11.27;10;30;;;;;;;;;;;;;;;;
+;;;;;;;;;;;tracker;6.0843;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;sedentaryActive;1.5385;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;lightlyActive;1.3898;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;moderatelyActive;0.272;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;veryActive;0.1875;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;loggedActivities;0.0;;;;;;;;;;;;;;;;;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,17918E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;245;2.33195;3113;2163000;2025-04-12T18:41:05.314Z;16:02;False;True;12/04/2025;True;3075;1519;1850;-1;12193;12;36.576;1125;276;26;13;total;9.1952;1026;54;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;9.1952;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.6547;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.1857;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.527;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.2031;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.33195;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.33195;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,16628E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;489;4.107;5448;5478000;2025-04-13T23:25:11.237Z;16:49;False;True;13/04/2025;True;2886;1267;1851;-1;11175;9;27.432;1183;197;60;0;total;8.4277;865;54;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;8.4277;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;3.7208;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.1209;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.3829;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.107;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.107;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+5,61199E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;146;1.32581;1809;1306000;2025-04-14T12:00:02.096Z;12:16;False;True;14/04/2025;True;2830;1148;1831;-1;9372;14;42.672;1211;194;31;4;total;7.0904;811;52;2663;10000;11.27;10;30
+2,6251E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;74;0.55883;783;956000;2025-04-14T16:18:16.961Z;16:22;False;True;14/04/2025;True;;;;;;;;;;;;tracker;7.0904;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.701;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.3094;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1768;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0068;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.88464;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.32581;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.55883;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,67593E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;64;0.56938;754;554000;2025-04-15T12:50:20.971Z;13:33;False;True;15/04/2025;True;3272;1659;1831;-1;11487;5;15.24;1132;219;70;19;total;8.277608;1218;51;2663;10000;11.27;10;30
+6,89604E+18;2040;2040;Circuit Training;Circuit Training;;22;;306;219000;2025-04-15T15:32:36.443Z;16:23;False;True;15/04/2025;True;;;;;;;;;;;;tracker;8.0805;;;;;;;
+6,50102E+18;91042;91042;Strength training;Strength training;;587;;1913;9536000;2025-04-15T18:11:55.187Z;16:30;False;True;15/04/2025;True;;;;;;;;;;;;sedentaryActive;2.2357;;;;;;;
+1,11867E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;256;1.8956;2543;2352000;2025-04-15T21:34:06.259Z;21:41;False;True;15/04/2025;True;;;;;;;;;;;;lightlyActive;1.572617;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.4771;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.13;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.4649799999999997;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.56938;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.8956;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+5,01367E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;76;0.57048;809;1040000;2025-04-16T11:49:31.390Z;10:31;False;True;16/04/2025;True;3120;1410;1831;-1;11073;14;42.672;657;206;30;22;total;8.077757;1045;53;2663;10000;11.27;10;30
+7,21629E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;98;0.8472;1141;921000;2025-04-16T14:47:23.906Z;15:00;False;True;16/04/2025;True;;;;;;;;;;;;tracker;7.8492;;;;;;;
+5,22185E+18;91042;91042;Strength training;Strength training;;214;;390;7717000;2025-04-16T18:58:10.610Z;16:31;False;True;16/04/2025;True;;;;;;;;;;;;sedentaryActive;2.49036;;;;;;;
+1,06833E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;427;2.9934;4251;3584000;2025-04-16T22:59:58.684Z;22:54;False;True;16/04/2025;True;;;;;;;;;;;;lightlyActive;0.530039;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.340181;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.060056;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.41108;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.57048;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.8472;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.9934;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,54694E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;287;2.0492;2858;3227000;2025-04-17T16:21:33.781Z;16:17;False;True;17/04/2025;True;3690;2194;1831;-1;20187;14;42.672;1046;266;54;74;total;14.360924;1612;53;2663;10000;11.27;10;30
+7,98551E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);782;5.87344;8832;5533000;2025-04-17T23:26:18.214Z;22:16;False;True;17/04/2025;True;;;;;;;;;;;;tracker;14.3314;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.3884;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.5875;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.589;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.4624;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;7.92264;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.0492;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;5.87344;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+8,48462E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;133;1.2048;1618;1279000;2025-04-18T08:56:07.462Z;09:19;False;True;18/04/2025;True;3437;1917;1831;-1;14888;7;21.336;1063;281;83;13;total;10.5962;1365;54;2663;10000;11.27;10;30
+2,08433E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;128;0.69152;1055;2693000;2025-04-18T10:27:29.379Z;10:42;False;True;18/04/2025;True;;;;;;;;;;;;tracker;10.5962;;;;;;;
+3,56634E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;197;1.6595;2269;1946000;2025-04-18T11:27:27.129Z;11:43;False;True;18/04/2025;True;;;;;;;;;;;;sedentaryActive;3.5857;;;;;;;
+8,86077E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;119;1.098;1456;1126000;2025-04-18T13:02:39.331Z;13:31;False;True;18/04/2025;True;;;;;;;;;;;;lightlyActive;2.4448;;;;;;;
+7,39871E+18;91042;91042;Strength training;Strength training;;396;;2187;7840000;2025-04-18T19:37:15.712Z;18:15;False;True;18/04/2025;True;;;;;;;;;;;;moderatelyActive;0.7777;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.7204;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.6538200000000005;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.2048;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.69152;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.6595;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.098;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+8,46856E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;131;0.8132;1165;1767000;2025-04-19T15:17:23.353Z;15:33;False;True;19/04/2025;True;2955;1375;1831;-1;11730;7;21.336;1156;232;43;9;total;8.8598;949;53;2663;10000;11.27;10;30
+2,87166E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;118;1.0614;1388;1177000;2025-04-19T16:18:04.121Z;16:46;False;True;19/04/2025;True;;;;;;;;;;;;tracker;8.8598;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.1258;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.5549;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.5395;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1666;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.8746;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.8132;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.0614;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,50784E+18;15000;15000;Sport;Sport;;247;;2534;1690000;2025-04-20T11:26:28.517Z;11:29;False;True;20/04/2025;True;3352;1772;1831;-1;16761;11;33.528;1133;164;109;34;total;11.959685;1320;52;2663;10000;11.27;10;30
+8,41809E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;166;1.54861;2091;1532000;2025-04-20T17:44:44.424Z;18:18;False;True;20/04/2025;True;;;;;;;;;;;;tracker;11.604;;;;;;;
+6,56941E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;238;2.02324;2896;2359000;2025-04-20T20:16:32.775Z;20:27;False;True;20/04/2025;True;;;;;;;;;;;;sedentaryActive;2.223149;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.8216;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.2806;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.57185;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.54861;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.02324;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,0231E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;109;0.9329;1226;1075000;2025-04-22T07:51:11.697Z;10:24;False;True;21/04/2025;True;3179;1607;1831;-1;12564;19;57.912;1116;275;40;9;total;9.2144;1129;51;2663;10000;11.27;10;30
+4,43874E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;163;1.31252;1831;1795000;2025-04-22T07:51:08.805Z;11:08;False;True;21/04/2025;True;;;;;;;;;;;;tracker;9.2144;;;;;;;
+7,55033E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);38;0.42799;398;172000;2025-04-22T07:51:08.837Z;12:53;False;True;21/04/2025;True;;;;;;;;;;;;sedentaryActive;3.4238;;;;;;;
+1,84536E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;81;0.60073;844;1028000;2025-04-22T07:51:08.869Z;16:26;False;True;21/04/2025;True;;;;;;;;;;;;lightlyActive;2.1962;;;;;;;
+2,06774E+17;91042;91042;Strength training;Strength training;;363;;1575;8064000;2025-04-22T07:51:08.982Z;18:01;False;True;21/04/2025;True;;;;;;;;;;;;moderatelyActive;0.1316;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.3306;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.27414;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9329;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.31252;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;0.42799;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.60073;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+5,17585E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;77;0.58676;834;1059000;2025-04-22T13:48:22.841Z;14:13;False;True;22/04/2025;True;3452;1952;1831;-1;13434;10;30.48;1045;328;48;19;total;9.597843;1373;51;2663;10000;11.27;10;30
+1,07593E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;97;0.77205;1075;1118000;2025-04-22T15:11:05.788Z;15:46;False;True;22/04/2025;True;;;;;;;;;;;;tracker;9.5757;;;;;;;
+2,65148E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;115;0.81568;1224;1284000;2025-04-22T17:57:02.682Z;18:35;False;True;22/04/2025;True;;;;;;;;;;;;sedentaryActive;2.8621;;;;;;;
+3,87963E+18;91042;91042;Strength training;Strength training;;397;;1419;8173000;2025-04-22T20:59:10.648Z;19:35;False;True;22/04/2025;True;;;;;;;;;;;;lightlyActive;2.459665;;;;;;;
+7,34715E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;137;1.2143;1625;1332000;2025-04-22T22:45:26.149Z;23:09;False;True;22/04/2025;True;;;;;;;;;;;;moderatelyActive;0.6565;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0709;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.3887899999999997;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.58676;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.77205;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.81568;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.2143;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+4,82633E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;247;2.27817;3037;2358000;2025-04-23T16:17:51.921Z;16:36;False;True;23/04/2025;True;3132;1562;1831;-1;12058;7;21.336;1133;252;19;36;total;8.5992;1110;51;2663;10000;11.27;10;30
+5,86169E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;102;0.77787;1091;1099000;2025-04-23T18:33:47.184Z;18:34;False;True;23/04/2025;True;;;;;;;;;;;;tracker;8.5992;;;;;;;
+5,69954E+18;91042;91042;Strength training;Strength training;;284;;1234;5390000;2025-04-23T20:52:53.227Z;20:12;False;True;23/04/2025;True;;;;;;;;;;;;sedentaryActive;2.4004;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.6172;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.2622;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0816;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.05604;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.27817;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.77787;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,42231E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;504;4.19077;5643;5347000;2025-04-24T16:04:14.227Z;15:31;False;True;24/04/2025;True;2937;1322;1831;-1;11780;6;18.288;1176;193;66;5;total;8.8656;928;51;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;8.8656;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.6033;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.2476;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.4406;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.19077;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;4.19077;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,31848E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;396;3.78773;4987;3270000;2025-04-25T15:47:25.240Z;15:48;False;True;25/04/2025;True;3097;1518;1831;-1;12409;6;18.288;1146;239;39;16;total;9.394382;1081;51;2663;10000;11.27;10;30
+2,06958E+18;91042;91042;Strength training;Strength training;;186;;743;4853000;2025-04-25T18:49:49.413Z;18:19;False;True;25/04/2025;True;;;;;;;;;;;;tracker;8.5867;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;3.263566;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;2.6483;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1196;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.06;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.78773;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;3.78773;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,67855E+15;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;91;0.757;990;921000;2025-04-26T09:46:48.522Z;10:20;False;True;26/04/2025;True;3554;2137;1831;-1;16864;10;30.48;1012;330;93;5;total;12.7981;1497;50;2663;10000;11.27;10;30
+4,91507E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;232;2.0178;2639;2407000;2025-04-26T11:02:16.516Z;11:09;False;True;26/04/2025;True;;;;;;;;;;;;tracker;12.7981;;;;;;;
+1,19053E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;136;1.2418;1624;1331000;2025-04-26T19:34:10.664Z;18:44;False;True;26/04/2025;True;;;;;;;;;;;;sedentaryActive;3.2794;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;3.0297;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.5101;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1996;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;4.0166;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.757;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.0178;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.2418;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+5,33513E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;274;2.37371;3236;2896000;2025-04-27T16:03:08.307Z;16:03;False;True;27/04/2025;True;3357;1774;1831;-1;14176;9;27.432;1111;221;94;14;total;10.4727;1290;51;2663;10000;11.27;10;30
+7,58684E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;192;1.41023;2049;2486000;2025-04-27T20:51:38.533Z;21:06;False;True;27/04/2025;True;;;;;;;;;;;;tracker;10.4727;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;1.4263;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.5747;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;2.0858;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1265;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.7839400000000003;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.37371;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.41023;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,07883E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;106;0.94606;1327;987000;2025-04-28T19:05:56.874Z;19:40;False;True;28/04/2025;True;3173;1475;1831;-1;12504;12;36.576;1161;200;72;7;total;9.132595;1075;51;2663;10000;11.27;10;30
+8,97813E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;255;1.9491;2755;2509000;2025-04-28T20:21:44.867Z;20:36;False;True;28/04/2025;True;;;;;;;;;;;;tracker;8.8162;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.7283;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.0866;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.6885;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0084;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.89516;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.94606;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.9491;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,16572E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;114;0.9646;1291;1076000;2025-04-29T09:40:07.006Z;10:06;False;True;29/04/2025;True;3557;1938;1831;-1;14131;6;18.288;1092;225;103;20;total;10.312228;1446;51;2663;10000;11.27;10;30
+5,38219E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;89;0.78632;1048;748000;2025-04-29T17:55:53.748Z;18:42;False;True;29/04/2025;True;;;;;;;;;;;;tracker;10.1708;;;;;;;
+6,39696E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;223;1.78246;2539;2453000;2025-04-29T19:26:54.389Z;19:45;False;True;29/04/2025;True;;;;;;;;;;;;sedentaryActive;1.869028;;;;;;;
+4,35557E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;263;1.7942;2647;2509000;2025-04-29T23:21:38.841Z;23:23;False;True;29/04/2025;True;;;;;;;;;;;;lightlyActive;0.7164;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.4208;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.733;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;5.32758;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9646;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.78632;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.78246;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.7942;;;;;;;
+"﻿""summary__caloriesOut""";summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes;;;;;;;;;;;;;;;;
+3153;1477;1831;-1;11066;10;30.48;1164;236;29;11;total;8.0283;1083;51;2663;10000;11.27;10;30;;;;;;;;;;;;;;;;
+;;;;;;;;;;;tracker;8.0283;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;sedentaryActive;3.3125;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;lightlyActive;0.8113;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;moderatelyActive;0.1574;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;veryActive;0.2063;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;loggedActivities;0.0;;;;;;;;;;;;;;;;;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,229E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;178;1.49261;2039;1344000;2025-05-02T06:31:45.064Z;12:20;False;True;01/05/2025;True;3198;1527;1831;-1;11803;11;33.528;1147;246;39;8;total;8.5865;1106;52;2663;10000;11.27;10;30
+9,1356E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;205;1.4161;2136;2303000;2025-05-02T06:31:50.233Z;17:52;False;True;01/05/2025;True;;;;;;;;;;;;tracker;8.5865;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;5.1739;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.9015;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.3904;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0061;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.90871;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.49261;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.4161;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+6,42903E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;167;1.53789;2132;1574000;2025-05-02T15:30:45.811Z;15:54;False;True;02/05/2025;True;3217;1573;1831;-1;13646;11;33.528;1134;239;65;2;total;10.0707;1130;51;2663;10000;11.27;10;30
+3,8802E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;76;0.60891;873;770000;2025-05-02T16:01:09.009Z;16:33;False;True;02/05/2025;True;;;;;;;;;;;;tracker;10.0707;;;;;;;
+6,52031E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;155;1.1299;1625;1690000;2025-05-05T07:24:43.596Z;20:30;False;True;02/05/2025;True;;;;;;;;;;;;sedentaryActive;3.3733;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;1.3038;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;1.4061;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;3.2767;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.53789;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.60891;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.1299;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+4,9466E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;102;0.7641;1024;1024000;2025-05-05T07:24:44.027Z;09:51;False;True;03/05/2025;True;3246;1618;1831;-1;14867;5;15.24;578;197;73;21;total;11.0178;1192;51;2663;10000;11.27;10;30
+2,11961E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;143;1.32948;1797;1235000;2025-05-05T07:24:39.335Z;13:38;False;True;03/05/2025;True;;;;;;;;;;;;tracker;11.0178;;;;;;;
+8,21067E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;52;0.49973;665;847000;2025-05-05T07:24:39.346Z;17:05;False;True;03/05/2025;True;;;;;;;;;;;;sedentaryActive;2.9387;;;;;;;
+2,77523E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;175;1.64577;2233;1496000;2025-05-05T07:24:39.362Z;18:45;False;True;03/05/2025;True;;;;;;;;;;;;lightlyActive;1.7282;;;;;;;
+1,24574E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;211;1.9429;2596;1687000;2025-05-05T07:24:39.367Z;20:17;False;True;03/05/2025;True;;;;;;;;;;;;moderatelyActive;1.2622;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1129;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;6.18198;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.7641;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.32948;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.49973;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.64577;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.9429;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,1532E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;123;1.0754;1443;1127000;2025-05-05T07:24:43.831Z;10:45;False;True;04/05/2025;True;3151;1488;1831;-1;12642;5;15.24;1165;188;76;11;total;9.2936;1087;52;2663;10000;11.27;10;30
+4,20286E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;82;0.69402;949;767000;2025-05-05T07:24:40.985Z;12:42;False;True;04/05/2025;True;;;;;;;;;;;;tracker;9.2936;;;;;;;
+5,34036E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;249;2.16211;2994;2305000;2025-05-05T07:24:41.303Z;18:09;False;True;04/05/2025;True;;;;;;;;;;;;sedentaryActive;2.7616;;;;;;;
+3,60523E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;131;0.9801;1371;1331000;2025-05-05T07:24:45.193Z;19:14;False;True;04/05/2025;True;;;;;;;;;;;;lightlyActive;1.092;;;;;;;
+2,19596E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;92;0.6964;1008;973000;2025-05-05T07:24:45.456Z;21:58;False;True;04/05/2025;True;;;;;;;;;;;;moderatelyActive;0.4389;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1104;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;5.60803;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.0754;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.69402;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;2.16211;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9801;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.6964;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+3,65185E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;210;1.7181;2312;1945000;2025-05-05T18:12:56.582Z;16:05;False;True;05/05/2025;True;3073;1394;1831;-1;10610;13;39.624;1160;223;51;6;total;7.9175;987;51;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;7.9175;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;4.2695;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.6762;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.4159;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.7181;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.7181;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+7,03677E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;119;1.0323;1383;1076000;2025-05-06T09:54:58.107Z;10:26;False;True;06/05/2025;True;2953;1205;1831;-1;10740;4;12.192;1245;146;47;2;total;9.128269;929;51;2663;10000;11.27;10;30
+4,26482E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;222;1.9336;2705;1997000;2025-05-06T16:14:02.580Z;11:05;False;True;06/05/2025;True;;;;;;;;;;;;tracker;5.7425;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.801024;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.573102;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.1554;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;2.9659;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.0323;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.9336;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+2,24409E+17;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;207;1.83195;2508;1936000;2025-05-07T12:05:36.571Z;12:24;False;True;07/05/2025;True;2724;831;1831;-1;5817;5;15.24;1208;138;17;14;total;4.3268;603;52;2663;10000;11.27;10;30
+;;;;;;;;;;;;;;;;;;;;;;;;;;;tracker;4.3268;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;sedentaryActive;2.1752;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;lightlyActive;0.7122;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.1723;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0785;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;1.83195;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.83195;;;;;;;
+"﻿""activities__logId""";activities__activityId;activities__activityParentId;activities__activityParentName;activities__name;activities__description;activities__calories;activities__distance;activities__steps;activities__duration;activities__lastModified;activities__startTime;activities__isFavorite;activities__hasActiveZoneMinutes;activities__startDate;activities__hasStartTime;summary__caloriesOut;summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes
+1,22539E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;149;1.3832;1808;1382000;2025-05-08T20:19:56.317Z;12:47;False;True;08/05/2025;True;3091;1388;1831;-1;11649;5;15.24;1185;173;60;22;total;8.8956;1023;55;2663;10000;11.27;10;30
+2,94015E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;263;1.87134;2834;2786000;2025-05-08T20:19:53.866Z;14:47;False;True;08/05/2025;True;;;;;;;;;;;;tracker;8.8956;;;;;;;
+7,88883E+18;90013;90013;Walk;Walk;Walking less than 2 mph, strolling very slowly;115;0.9393;1299;1024000;2025-05-08T20:19:57.224Z;16:20;False;True;08/05/2025;True;;;;;;;;;;;;sedentaryActive;5.9022;;;;;;;
+1,5207E+18;90009;90009;Run;Run;Running - 5 mph (12 min/mile);85;1.09369;977;417000;2025-05-08T20:19:53.909Z;17:17;False;True;08/05/2025;True;;;;;;;;;;;;lightlyActive;0.817;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;moderatelyActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;veryActive;0.0;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;loggedActivities;5.28753;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.3832;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;1.87134;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Walk;0.9393;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;Run;1.09369;;;;;;;
+"﻿""summary__caloriesOut""";summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes;;;;;;;;;;;;;;;;
+2585;860;1831;-1;4849;4;12.192;1241;199;0;0;total;3.6326;576;55;2663;10000;11.27;10;30;;;;;;;;;;;;;;;;
+;;;;;;;;;;;tracker;3.6326;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;sedentaryActive;0.8891;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;lightlyActive;0.4923;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;moderatelyActive;0.1179;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;veryActive;0.0167;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;loggedActivities;0.0;;;;;;;;;;;;;;;;;;;;;;;
+"﻿""summary__caloriesOut""";summary__activityCalories;summary__caloriesBMR;summary__activeScore;summary__steps;summary__floors;summary__elevation;summary__sedentaryMinutes;summary__lightlyActiveMinutes;summary__fairlyActiveMinutes;summary__veryActiveMinutes;summary__distances__activity;summary__distances__distance;summary__marginalCalories;summary__restingHeartRate;goals__caloriesOut;goals__steps;goals__distance;goals__floors;goals__activeMinutes;;;;;;;;;;;;;;;;
+2835;1130;1831;-1;6358;4;12.192;1193;239;8;0;total;4.848;774;52;2663;10000;11.27;10;30;;;;;;;;;;;;;;;;
+;;;;;;;;;;;tracker;4.848;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;sedentaryActive;1.0663;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;lightlyActive;0.5125;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;moderatelyActive;0.0463;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;veryActive;0.0;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;loggedActivities;0.0;;;;;;;;;;;;;;;;;;;;;;;
