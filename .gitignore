@@ -1,0 +1,53 @@
+# Virtual Environment
+tf-env/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Data files
+data/other/
+data/fitbit_data_ahmed_said/raw/
+data/fitbit_data_ahmed_said/processed/
+
+# Keep only specific data files
+!data/processed/
+!data/fitbit_data_ahmed_said/processed/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+bfg.jar 
