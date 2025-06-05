@@ -1,0 +1,124 @@
+{
+  "activities": [{
+    "logId": 5013666697899328112,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 76,
+    "distance": 0.57048,
+    "steps": 809,
+    "duration": 1040000,
+    "lastModified": "2025-04-16T11:49:31.390Z",
+    "startTime": "10:31",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-04-16",
+    "hasStartTime": true
+  }, {
+    "logId": 721629067603676240,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 98,
+    "distance": 0.8472,
+    "steps": 1141,
+    "duration": 921000,
+    "lastModified": "2025-04-16T14:47:23.906Z",
+    "startTime": "15:00",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-04-16",
+    "hasStartTime": true
+  }, {
+    "logId": 5221850035419020776,
+    "activityId": 91042,
+    "activityParentId": 91042,
+    "activityParentName": "Strength training",
+    "name": "Strength training",
+    "description": "",
+    "calories": 214,
+    "steps": 390,
+    "duration": 7717000,
+    "lastModified": "2025-04-16T18:58:10.610Z",
+    "startTime": "16:31",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-04-16",
+    "hasStartTime": true
+  }, {
+    "logId": 1068331871352491632,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 427,
+    "distance": 2.9934,
+    "steps": 4251,
+    "duration": 3584000,
+    "lastModified": "2025-04-16T22:59:58.684Z",
+    "startTime": "22:54",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-04-16",
+    "hasStartTime": true
+  }],
+  "summary": {
+    "caloriesOut": 3120,
+    "activityCalories": 1410,
+    "caloriesBMR": 1831,
+    "activeScore": -1,
+    "steps": 11073,
+    "floors": 14,
+    "elevation": 42.672,
+    "sedentaryMinutes": 657,
+    "lightlyActiveMinutes": 206,
+    "fairlyActiveMinutes": 30,
+    "veryActiveMinutes": 22,
+    "distances": [{
+      "activity": "total",
+      "distance": 8.077757
+    }, {
+      "activity": "tracker",
+      "distance": 7.8492
+    }, {
+      "activity": "sedentaryActive",
+      "distance": 2.49036
+    }, {
+      "activity": "lightlyActive",
+      "distance": 0.530039
+    }, {
+      "activity": "moderatelyActive",
+      "distance": 0.340181
+    }, {
+      "activity": "veryActive",
+      "distance": 0.060056
+    }, {
+      "activity": "loggedActivities",
+      "distance": 4.41108
+    }, {
+      "activity": "Walk",
+      "distance": 0.57048
+    }, {
+      "activity": "Walk",
+      "distance": 0.8472
+    }, {
+      "activity": "Walk",
+      "distance": 2.9934
+    }],
+    "marginalCalories": 1045,
+    "restingHeartRate": 53,
+    "heartRateZones": []
+  },
+  "goals": {
+    "caloriesOut": 2663,
+    "steps": 10000,
+    "distance": 11.27,
+    "floors": 10,
+    "activeMinutes": 30
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "tempSkin": [
+    {
+      "value": {
+        "nightlyRelative": 1.6
+      },
+      "dateTime": "2025-04-11",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0
+      },
+      "dateTime": "2025-04-12",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.3
+      },
+      "dateTime": "2025-04-13",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 1.2
+      },
+      "dateTime": "2025-04-14",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.3
+      },
+      "dateTime": "2025-04-15",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 1
+      },
+      "dateTime": "2025-04-16",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 1.1
+      },
+      "dateTime": "2025-04-17",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.5
+      },
+      "dateTime": "2025-04-18",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-04-19",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-04-20",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0
+      },
+      "dateTime": "2025-04-21",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-04-22",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-04-23",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.3
+      },
+      "dateTime": "2025-04-24",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -1.5
+      },
+      "dateTime": "2025-04-25",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.5
+      },
+      "dateTime": "2025-04-26",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.2
+      },
+      "dateTime": "2025-04-27",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -1.2
+      },
+      "dateTime": "2025-04-28",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.5
+      },
+      "dateTime": "2025-04-29",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.3
+      },
+      "dateTime": "2025-04-30",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.7
+      },
+      "dateTime": "2025-05-01",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -1.4
+      },
+      "dateTime": "2025-05-02",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.4
+      },
+      "dateTime": "2025-05-03",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-05-04",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.9
+      },
+      "dateTime": "2025-05-05",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": 0.1
+      },
+      "dateTime": "2025-05-06",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.3
+      },
+      "dateTime": "2025-05-07",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.6
+      },
+      "dateTime": "2025-05-08",
+      "logType": "dedicated_temp_sensor"
+    },
+    {
+      "value": {
+        "nightlyRelative": -0.7
+      },
+      "dateTime": "2025-05-10",
+      "logType": "dedicated_temp_sensor"
+    }
+  ]
+}

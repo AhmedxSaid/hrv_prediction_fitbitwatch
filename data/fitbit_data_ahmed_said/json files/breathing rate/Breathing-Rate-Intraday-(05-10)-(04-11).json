@@ -1,0 +1,480 @@
+{
+  "br": [
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16
+        }
+      },
+      "dateTime": "2025-04-11"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "remSleepSummary": {
+          "breathingRate": -1
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": -1
+        }
+      },
+      "dateTime": "2025-04-12"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16
+        }
+      },
+      "dateTime": "2025-04-13"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 14.4
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 14.4
+        },
+        "lightSleepSummary": {
+          "breathingRate": 14.6
+        }
+      },
+      "dateTime": "2025-04-14"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 14.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 14.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": 14.6
+        }
+      },
+      "dateTime": "2025-04-15"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 14.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.8
+        }
+      },
+      "dateTime": "2025-04-17"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.2
+        }
+      },
+      "dateTime": "2025-04-18"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "remSleepSummary": {
+          "breathingRate": 14.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "lightSleepSummary": {
+          "breathingRate": 14.8
+        }
+      },
+      "dateTime": "2025-04-19"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15
+        }
+      },
+      "dateTime": "2025-04-20"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 16
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.6
+        }
+      },
+      "dateTime": "2025-04-21"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.8
+        }
+      },
+      "dateTime": "2025-04-22"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.8
+        }
+      },
+      "dateTime": "2025-04-23"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16
+        }
+      },
+      "dateTime": "2025-04-24"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 15
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.2
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.2
+        }
+      },
+      "dateTime": "2025-04-25"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "remSleepSummary": {
+          "breathingRate": 13.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 15.4
+        },
+        "lightSleepSummary": {
+          "breathingRate": 15.2
+        }
+      },
+      "dateTime": "2025-04-26"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 15
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.6
+        }
+      },
+      "dateTime": "2025-04-27"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 18
+        },
+        "remSleepSummary": {
+          "breathingRate": -1
+        },
+        "fullSleepSummary": {
+          "breathingRate": 18
+        },
+        "lightSleepSummary": {
+          "breathingRate": 17.4
+        }
+      },
+      "dateTime": "2025-04-28"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.2
+        },
+        "remSleepSummary": {
+          "breathingRate": 26.8
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.2
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.2
+        }
+      },
+      "dateTime": "2025-04-29"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.4
+        },
+        "remSleepSummary": {
+          "breathingRate": 16
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.4
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16
+        }
+      },
+      "dateTime": "2025-04-30"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 16.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.6
+        }
+      },
+      "dateTime": "2025-05-01"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.4
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.2
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.4
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.6
+        }
+      },
+      "dateTime": "2025-05-02"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": -1
+        },
+        "remSleepSummary": {
+          "breathingRate": -1
+        },
+        "fullSleepSummary": {
+          "breathingRate": 0
+        },
+        "lightSleepSummary": {
+          "breathingRate": -1
+        }
+      },
+      "dateTime": "2025-05-03"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17
+        },
+        "remSleepSummary": {
+          "breathingRate": 17.2
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.4
+        }
+      },
+      "dateTime": "2025-05-04"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 12.4
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.2
+        }
+      },
+      "dateTime": "2025-05-05"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 16.6
+        },
+        "remSleepSummary": {
+          "breathingRate": 15.6
+        },
+        "fullSleepSummary": {
+          "breathingRate": 16.6
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.2
+        }
+      },
+      "dateTime": "2025-05-06"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.2
+        },
+        "remSleepSummary": {
+          "breathingRate": 17
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.2
+        },
+        "lightSleepSummary": {
+          "breathingRate": 17
+        }
+      },
+      "dateTime": "2025-05-07"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 18
+        },
+        "remSleepSummary": {
+          "breathingRate": 18
+        },
+        "fullSleepSummary": {
+          "breathingRate": 18
+        },
+        "lightSleepSummary": {
+          "breathingRate": 17.4
+        }
+      },
+      "dateTime": "2025-05-08"
+    },
+    {
+      "value": {
+        "deepSleepSummary": {
+          "breathingRate": 17.8
+        },
+        "remSleepSummary": {
+          "breathingRate": 16.6
+        },
+        "fullSleepSummary": {
+          "breathingRate": 17.8
+        },
+        "lightSleepSummary": {
+          "breathingRate": 16.4
+        }
+      },
+      "dateTime": "2025-05-10"
+    }
+  ]
+}

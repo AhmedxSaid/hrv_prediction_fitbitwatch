@@ -1,0 +1,68 @@
+{
+  "activities": [{
+    "logId": 4960292845074119320,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 396,
+    "distance": 3.74637,
+    "steps": 5033,
+    "duration": 3198000,
+    "lastModified": "2025-03-28T17:50:04.751Z",
+    "startTime": "17:48",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-03-28",
+    "hasStartTime": true
+  }],
+  "summary": {
+    "caloriesOut": 2817,
+    "activityCalories": 1145,
+    "caloriesBMR": 1843,
+    "activeScore": -1,
+    "steps": 10373,
+    "floors": 7,
+    "elevation": 21.336,
+    "sedentaryMinutes": 1225,
+    "lightlyActiveMinutes": 159,
+    "fairlyActiveMinutes": 25,
+    "veryActiveMinutes": 31,
+    "distances": [{
+      "activity": "total",
+      "distance": 7.7476
+    }, {
+      "activity": "tracker",
+      "distance": 7.7476
+    }, {
+      "activity": "sedentaryActive",
+      "distance": 2.3794
+    }, {
+      "activity": "lightlyActive",
+      "distance": 1.4981
+    }, {
+      "activity": "moderatelyActive",
+      "distance": 0.4438
+    }, {
+      "activity": "veryActive",
+      "distance": 0.1611
+    }, {
+      "activity": "loggedActivities",
+      "distance": 3.74637
+    }, {
+      "activity": "Walk",
+      "distance": 3.74637
+    }],
+    "marginalCalories": 816,
+    "restingHeartRate": 44,
+    "heartRateZones": []
+  },
+  "goals": {
+    "caloriesOut": 2663,
+    "steps": 10000,
+    "distance": 11.27,
+    "floors": 10,
+    "activeMinutes": 30
+  }
+}

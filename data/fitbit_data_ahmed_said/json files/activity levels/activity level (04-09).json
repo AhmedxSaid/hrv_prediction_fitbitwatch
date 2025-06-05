@@ -1,0 +1,64 @@
+{
+  "activities": [{
+    "logId": 1686075624985685872,
+    "activityId": 15000,
+    "activityParentId": 15000,
+    "activityParentName": "Sport",
+    "name": "Sport",
+    "description": "",
+    "calories": 1200,
+    "steps": 10792,
+    "duration": 8090000,
+    "lastModified": "2025-04-09T17:04:50.666Z",
+    "startTime": "15:03",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-04-09",
+    "hasStartTime": true
+  }],
+  "summary": {
+    "caloriesOut": 3775,
+    "activityCalories": 2292,
+    "caloriesBMR": 1849,
+    "activeScore": -1,
+    "steps": 16041,
+    "floors": 30,
+    "elevation": 91.44,
+    "sedentaryMinutes": 1056,
+    "lightlyActiveMinutes": 277,
+    "fairlyActiveMinutes": 9,
+    "veryActiveMinutes": 98,
+    "distances": [{
+      "activity": "total",
+      "distance": 11.3668
+    }, {
+      "activity": "tracker",
+      "distance": 11.3668
+    }, {
+      "activity": "sedentaryActive",
+      "distance": 7.2334
+    }, {
+      "activity": "lightlyActive",
+      "distance": 2.0203
+    }, {
+      "activity": "moderatelyActive",
+      "distance": 0.3097
+    }, {
+      "activity": "veryActive",
+      "distance": 0.542
+    }, {
+      "activity": "loggedActivities",
+      "distance": 0.0
+    }],
+    "marginalCalories": 1696,
+    "restingHeartRate": 54,
+    "heartRateZones": []
+  },
+  "goals": {
+    "caloriesOut": 2663,
+    "steps": 10000,
+    "distance": 11.27,
+    "floors": 10,
+    "activeMinutes": 30
+  }
+}

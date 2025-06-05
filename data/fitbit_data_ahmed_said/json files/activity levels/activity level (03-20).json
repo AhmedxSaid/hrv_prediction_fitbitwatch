@@ -1,0 +1,88 @@
+{
+  "activities": [{
+    "logId": 6953120474297885848,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 479,
+    "distance": 3.80178,
+    "steps": 5188,
+    "duration": 4704000,
+    "lastModified": "2025-03-20T09:56:11.757Z",
+    "startTime": "09:11",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-03-20",
+    "hasStartTime": true
+  }, {
+    "logId": 6443102645466088616,
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "name": "Walk",
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "calories": 302,
+    "distance": 2.91835,
+    "steps": 3869,
+    "duration": 2336000,
+    "lastModified": "2025-03-20T15:02:32.012Z",
+    "startTime": "15:12",
+    "isFavorite": false,
+    "hasActiveZoneMinutes": true,
+    "startDate": "2025-03-20",
+    "hasStartTime": true
+  }],
+  "summary": {
+    "caloriesOut": 3057,
+    "activityCalories": 1430,
+    "caloriesBMR": 1839,
+    "activeScore": -1,
+    "steps": 12477,
+    "floors": 23,
+    "elevation": 70.104,
+    "sedentaryMinutes": 1198,
+    "lightlyActiveMinutes": 133,
+    "fairlyActiveMinutes": 43,
+    "veryActiveMinutes": 66,
+    "distances": [{
+      "activity": "total",
+      "distance": 9.3216
+    }, {
+      "activity": "tracker",
+      "distance": 9.3269
+    }, {
+      "activity": "sedentaryActive",
+      "distance": 2.0809
+    }, {
+      "activity": "lightlyActive",
+      "distance": 1.2186
+    }, {
+      "activity": "moderatelyActive",
+      "distance": 0.3369
+    }, {
+      "activity": "veryActive",
+      "distance": 0.6514
+    }, {
+      "activity": "loggedActivities",
+      "distance": 6.72013
+    }, {
+      "activity": "Walk",
+      "distance": 3.80178
+    }, {
+      "activity": "Walk",
+      "distance": 2.91835
+    }],
+    "marginalCalories": 1055,
+    "restingHeartRate": 42,
+    "heartRateZones": []
+  },
+  "goals": {
+    "caloriesOut": 2663,
+    "steps": 10000,
+    "distance": 11.27,
+    "floors": 10,
+    "activeMinutes": 30
+  }
+}
