@@ -79,6 +79,3 @@ The scripts print progress and performance metrics to the console for each windo
 - **Feature Selection (FFS/BFS):** Automatically identifying the most relevant features for prediction.
 - **Robust Scaling:** Preprocessing data to be less sensitive to outliers.
 - **R² Score & RMSE:** Metrics for evaluating regression model performance.
-
->>>>>>> b3c5f6d48550dcf3f2f580ae4362896e4a64ab14
-This project provides a framework for analyzing and predicting HRV trends over time, with insights into feature importance and model performance variability. 
